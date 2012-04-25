@@ -11,7 +11,7 @@
         {
           "type": "T1_MICRO",
           "deployState": "RUNNING",
-          "image": "ami-31814f58",
+          "image": "ami-1b814f72",
           "name": "myblog"
         }
       ],
